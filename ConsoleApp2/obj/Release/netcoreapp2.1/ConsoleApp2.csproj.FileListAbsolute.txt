@@ -1,0 +1,10 @@
+C:\Users\SUPERHP\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp2.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\SUPERHP\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp2.1\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\SUPERHP\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp2.1\ConsoleApp2.AssemblyInfo.cs
+C:\Users\SUPERHP\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp2.1\Aplicacion.deps.json
+C:\Users\SUPERHP\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp2.1\Aplicacion.runtimeconfig.json
+C:\Users\SUPERHP\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp2.1\Aplicacion.runtimeconfig.dev.json
+C:\Users\SUPERHP\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp2.1\Aplicacion.dll
+C:\Users\SUPERHP\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp2.1\Aplicacion.pdb
+C:\Users\SUPERHP\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp2.1\Aplicacion.dll
+C:\Users\SUPERHP\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp2.1\Aplicacion.pdb

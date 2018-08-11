@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject>ConsoleApp2.Program</StartupObject>
+    <Win32Resource />
+    <NoWin32Manifest>true</NoWin32Manifest>
+    <AssemblyName>Aplicacion</AssemblyName>
+  </PropertyGroup>
+
+</Project>
